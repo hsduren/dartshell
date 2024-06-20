@@ -27,5 +27,7 @@ This is an SSH and SFTP client specifically tailored for MacOS users, featuring 
 9. **Batch Command**: Send commands to Group.
 10. **Export**: Import or Export server list.
 
+download: https://apps.apple.com/cn/app/dartshell/id6504210872?mt=12
+
 
 
