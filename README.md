@@ -28,6 +28,7 @@ This is an SSH and SFTP client specifically tailored for MacOS users, featuring 
 10. **Export**: Import or Export server list.
 
 download: https://apps.apple.com/cn/app/dartshell/id6504210872?mt=12
+or search "dart shell" or "dartShell" in the Mac App Store
 
 
 
