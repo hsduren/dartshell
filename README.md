@@ -1,8 +1,8 @@
 # DartShell
 
-**专为 macOS 打造的专业 SSH 客户端**
+**深度定制的专业 SSH 客户端**
 
-*更适合管理大量服务器*
+*满足专业管理需求*
 
 ---
 
@@ -192,37 +192,12 @@ A: 可以通过修改配置路径到 iCloud 目录实现团队共享。将应用
 #### 联系我们
 - **Discord 社区**: [https://discord.gg/7nEQspHK](https://discord.gg/7nEQspHK)
 - **微信群**: 在设置中查看微信二维码加入用户群
-- **应用内反馈**: 设置 → 技术支持
-
-#### 获取帮助
-**优先推荐的支持方式**：
-1. **应用内帮助** - 查看内置的使用指南和教程
-2. **常见问题** - 浏览 FAQ 部分，快速找到解决方案
-3. **Discord 社区** - 与其他用户交流经验和技巧
-4. **微信群** - 实时交流和问题解答
-
-#### 反馈建议
-我们非常重视用户的反馈和建议：
-- **功能建议** - 告诉我们您希望添加的新功能
-- **问题报告** - 详细描述遇到的问题，帮助我们改进
-- **使用体验** - 分享您的使用心得和改进建议
-
-**反馈渠道**：
-- Discord 社区讨论
-- 微信用户群交流
-- 应用内反馈功能
 
 #### 更新与维护
-**自动更新**：
-- 应用会自动检查更新
+**更新机制**：
+- 通过 App Store 进行更新分发
 - 推荐开启自动更新功能
-- 重要安全更新会强制安装
-
-**更新内容**：
-- 新功能添加
-- 性能优化
-- 安全漏洞修复
-- 用户体验改进
+- 重要安全更新会及时推送
 
 ---
 
@@ -412,37 +387,12 @@ A: You can achieve team sharing by modifying the configuration path to iCloud di
 #### Contact Us
 - **Discord Community**: [https://discord.gg/7nEQspHK](https://discord.gg/7nEQspHK)
 - **WeChat Group**: View WeChat QR code in settings to join user group
-- **In-app Feedback**: Settings → Technical Support
-
-#### Getting Help
-**Recommended Support Methods**:
-1. **In-app Help** - View built-in user guides and tutorials
-2. **FAQ** - Browse FAQ section for quick solutions
-3. **Discord Community** - Exchange experiences and tips with other users
-4. **WeChat Group** - Real-time communication and Q&A
-
-#### Feedback & Suggestions
-We highly value user feedback and suggestions:
-- **Feature Suggestions** - Tell us about new features you'd like to see
-- **Bug Reports** - Describe problems encountered in detail to help us improve
-- **User Experience** - Share your usage experience and improvement suggestions
-
-**Feedback Channels**:
-- Discord community discussion
-- WeChat user group communication
-- In-app feedback functionality
 
 #### Updates & Maintenance
-**Auto Updates**:
-- App automatically checks for updates
+**Update Mechanism**:
+- Updates are distributed through App Store
 - Recommend enabling auto-update feature
-- Important security updates are forced to install
-
-**Update Content**:
-- New feature additions
-- Performance optimizations
-- Security vulnerability fixes
-- User experience improvements
+- Important security updates are pushed promptly
 
 ---
 
